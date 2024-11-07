@@ -86,5 +86,6 @@ Si tienes alguna pregunta o sugerencia, puedes contactar a Juan Ignacio Tuite a 
 
 ```bash
 git clone https://github.com/juanchigit/FlashMind.git
+```
 
 4. Presiona Enter.
