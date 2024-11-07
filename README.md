@@ -63,7 +63,11 @@ Para que el programa funcione correctamente, los mazos deben estar organizados d
 
 ## Créditos
 
-Este proyecto fue creado por Juan Ignacio Tuite y está basado en el enfoque propuesto por Campayo (2007) para el aprendizaje y memorización de vocabulario.
+Este proyecto fue creado por **Juan Ignacio Tuite** y está basado en el enfoque propuesto por Campayo (2007) en su libro *"Aprende inglés en 7 días" (11ª ed.)*, Editorial EDAF, para el aprendizaje y memorización de vocabulario.
+
+**Referencia bibliográfica:**
+
+Campayo, R. (2007). *Aprende inglés en 7 días* (11. ed.). Editorial EDAF.
 
 ## Licencia
 
