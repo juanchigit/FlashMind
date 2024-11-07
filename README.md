@@ -88,4 +88,4 @@ Si tienes alguna pregunta o sugerencia, puedes contactar a Juan Ignacio Tuite a 
 git clone https://github.com/juanchigit/FlashMind.git
 ```
 
-4. Presiona Enter.
+4. **Presiona Enter**.
